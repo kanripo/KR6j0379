@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:15.710264
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:00
 #+TITLE: 地藏菩薩儀軌
 #+PROPERTY: CBETA_ID T20n1158
 #+PROPERTY: ID KR6j0379
