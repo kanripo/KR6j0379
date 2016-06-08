@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:15.710264
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:00
 #+TITLE: 地藏菩薩儀軌
 #+PROPERTY: CBETA_ID T20n1158
 #+PROPERTY: ID KR6j0379
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1158
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0379_T_000-0652a>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0379_T_001-0652a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1158¶
-
- 地藏菩薩儀軌¶
+No. 1158¶
+地藏菩薩儀軌¶
 ¶
 中天竺輸婆迦羅奉　詔譯¶
 
@@ -29,8 +28,7 @@ No.1158¶
 爾時地藏菩薩騰虛空讚歎歸命世尊。在空¶
 中亦現無量神通。以神口說呪曰。¶
 
-唵闇摩他[口*闇]摩爾俱苾俱苾三曼多娑婆¶
-賀
+唵闇摩他[口*闇]摩爾俱苾俱苾三曼多娑婆賀
 
 次說心呪。
 
@@ -63,7 +61,7 @@ No.1158¶
 次總說總印。二羽三補吒。進力立來去。呪¶
 曰。
 
-唵[口*羯]只儞耶娑嚩(二合)賀¶
+唵[口*羯]只儞耶娑嚩二合賀(二合)¶
 
 次請讚印。二羽三補吒。進力來去次撥遣¶
 以觀手禪進彈。¶
